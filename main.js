@@ -13,7 +13,7 @@ module.exports = {
   messages: {
     'open' () {
       // open entry panel registered in package.json
-      Editor.Panel.open('jsoneditor');
+      Editor.Panel.open('jsoncreator');
     }
   },
 };
